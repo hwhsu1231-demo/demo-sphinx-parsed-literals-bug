@@ -1,0 +1,47 @@
+{
+  "po" : 
+  {
+    "en_US" : 
+    {
+      "branch" : "",
+      "commit" : 
+      {
+        "date" : "",
+        "hash" : "",
+        "title" : ""
+      }
+    },
+    "zh_CN" : 
+    {
+      "branch" : "master",
+      "commit" : 
+      {
+        "date" : "2025-07-14 00:04:40 -0400",
+        "hash" : "07f4179b810b40d9785c4ec631cafcc0201e14b8",
+        "title" : "CMake Nightly Date Stamp"
+      }
+    },
+    "zh_TW" : 
+    {
+      "branch" : "master",
+      "commit" : 
+      {
+        "date" : "2025-07-14 00:04:40 -0400",
+        "hash" : "07f4179b810b40d9785c4ec631cafcc0201e14b8",
+        "title" : "CMake Nightly Date Stamp"
+      }
+    }
+  },
+  "pot" : 
+  {
+    "branch" : "master",
+    "commit" : 
+    {
+      "date" : "2025-07-14 00:04:40 -0400",
+      "hash" : "07f4179b810b40d9785c4ec631cafcc0201e14b8",
+      "title" : "CMake Nightly Date Stamp"
+    }
+  },
+  "type" : "branch",
+  "version" : "master"
+}
